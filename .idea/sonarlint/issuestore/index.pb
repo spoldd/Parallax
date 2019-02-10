@@ -1,0 +1,13 @@
+
+9
+	script.js,3\1\313d6864fa48b411d082f7692efd0c0892788fc4
+8
+main.css,3\3\33e0a7d96f2f283eb6f94bbfd4ce882c6816f77d
+>
+slick/slick.js,4\3\43dc9dd5f79dfdeb5a5fe5e4f79871e406754978
+:
+
+bower.json,a\1\a14711139c35184f407761a5ddf05f598a0abc88
+:
+
+index.html,f\6\f6013a00b362253c64368d6eebc50ea2131754e2
